@@ -1,5 +1,5 @@
 
-## MIPS-Assembly-Microprocessors
+## MIPS Assembly Microprocessors
 
 This is a pair of projects for Computer Architecture II. Their purpose is to understand the concepts of the course. The first project is about pipelining and the second about cache memories. 
 
